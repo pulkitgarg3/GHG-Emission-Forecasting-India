@@ -12,11 +12,6 @@ This repository provides a comprehensive analysis and forecasting of Greenhouse 
 4. [Models Implemented](#models-implemented)
 5. [Findings](#findings)
 6. [Future Scope](#future-scope)
-7. [Installation](#installation)
-8. [Usage](#usage)
-9. [Contributors](#contributors)
-10. [License](#license)
-
 ---
 
 ## 📖 Overview
